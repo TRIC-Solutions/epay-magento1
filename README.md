@@ -1,9 +1,9 @@
-Bambora Classic (ePay) Magento 1
+Bambora Classic (ePay) Magento 1 End of life (EOL) as of June 30
 =======
 
-Documentation: http://www.magento.dk/
+End of life (EOL) as of June 30, 2020. If you are still using Magento 1, you will have to migrate to Magento 2 or another platform before June 30, 2020.
 
-This and previous releases is tested on Magento v 1.9.x . We can not guarantee that it will work on other versions of Magento. Also if you are running Magento on PHP 7.x there might be errors in the Magento calculation of tax and discount
+Magento migration documentation: https://magento.com/solutions/magento-2-migration
 
 
 [![Build Status](https://travis-ci.org/ePay/magento.svg?branch=master)](https://travis-ci.org/ePay/magento)
